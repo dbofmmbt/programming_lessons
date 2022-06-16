@@ -1,0 +1,1 @@
+void *alocar(int size);
